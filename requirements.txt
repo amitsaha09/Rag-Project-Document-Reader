@@ -1,0 +1,96 @@
+# ==============================
+# LLM PROVIDERS
+# ==============================
+
+openai
+langchain-openai
+
+google-genai
+langchain-google-genai
+
+# Hugging Face
+huggingface-hub
+transformers
+sentence-transformers
+langchain-huggingface
+
+
+# ==============================
+# LANGCHAIN / RAG FRAMEWORK
+# ==============================
+
+langchain
+langchain-core
+langchain-community
+langgraph
+
+
+# ==============================
+# VECTOR DATABASES
+# ==============================
+
+chromadb
+langchain-chroma
+faiss-cpu
+
+
+# ==============================
+# EMBEDDINGS
+# ==============================
+
+# Hugging Face / Sentence Transformers
+sentence-transformers
+
+# Tokenization
+tiktoken
+
+
+# ==============================
+# DOCUMENT LOADERS
+# ==============================
+
+pypdf
+python-docx
+docx2txt
+unstructured
+beautifulsoup4
+requests
+
+
+# ==============================
+# DATA PROCESSING
+# ==============================
+
+numpy
+pandas
+
+
+# ==============================
+# API / BACKEND
+# ==============================
+
+fastapi
+uvicorn
+
+
+# ==============================
+# ENVIRONMENT VARIABLES
+# ==============================
+
+python-dotenv
+
+
+# ==============================
+# JUPYTER / DEVELOPMENT
+# ==============================
+
+ipykernel
+
+
+# ==============================
+# OPTIONAL: WEB / HTML PARSING
+# ==============================
+
+lxml
+html2text
+streamlit
